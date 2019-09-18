@@ -33,7 +33,7 @@ function transformColorsIntoTags(color_names) {
 
 // Include CSS for HTML export
 exports.stylesForExport = function(hook, padId, cb){
-  var style = eejs.require("ep_font_color/static/css/color.css");
+  var style = eejs.require("ep_font_color2/static/css/color.css");
   cb(style);
 };
 

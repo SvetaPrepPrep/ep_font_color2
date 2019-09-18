@@ -2,7 +2,7 @@ var _, $, jQuery;
 
 var $ = require('ep_etherpad-lite/static/js/rjquery').$;
 var _ = require('ep_etherpad-lite/static/js/underscore');
-var cssFiles = ["ep_font_color/static/css/color.css"];
+var cssFiles = ["ep_font_color2/static/css/color.css"];
 
 // All our colors are block elements, so we just return them.
 var colors = ['black', 'red', 'green', 'blue', 'yellow', 'orange'];

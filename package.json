@@ -1,11 +1,11 @@
 {
   "description": "Apply colors to fonts",
-  "name": "ep_font_color",
-  "version": "0.0.11",
+  "name": "ep_font_color2",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "author": {
-    "name": "John McLear",
-    "email": "john@mclear.co.uk"
+    "name": "Sveta Shchukina",
+    "email": "bistroplit@gmail.com"
   },
   "dependencies": {},
   "engines": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JohnMcLear/ep_font_color.git"
+    "url": "https://github.com/JohnMcLear/ep_font_color2.git"
   }
 }
